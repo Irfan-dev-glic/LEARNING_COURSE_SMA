@@ -1,0 +1,6 @@
+{
+  "name": "CendekiaSMA",
+  "description": "Platform e-learning SMA kelas 10-12 dengan materi terstruktur, kuis interaktif, gamifikasi XP dan streak, serta portal guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
